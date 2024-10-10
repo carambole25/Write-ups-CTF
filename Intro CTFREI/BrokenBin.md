@@ -7,12 +7,16 @@ Mot de passe : jail
 ssh -p 4444 jail@intro.ctfrei.fr 
 
 -------------------------------------------------------
+
+```
 #!/usr/bin/python3
 import os
 
 print("Rentre en input un directory que tu veux ls !")
 s = input("ls ")
 os.system(f'ls {s}')
+```
+
 -------------------------------------------------------
 
 On constate que wrapper appartient à r00t et qu'on peu l'executer.
