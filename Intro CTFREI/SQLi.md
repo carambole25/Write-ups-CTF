@@ -10,6 +10,7 @@ http://intro.ctfrei.fr:6001/
 SQLi très classique
 
 login : admin'--
+
 password : yolo
 
 les -- permettent de mettre le reste de la requêtes en commentaire.
