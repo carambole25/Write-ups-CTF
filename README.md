@@ -4,7 +4,7 @@
 | ------------- | ------------- |
 | Root-me  | 1300 pts  |
 | Portswigger  | 18%  |
-| Intro CTFREI  |  |
+| Intro CTFREI  | 25/120 |
 | ECW  | 156/846  |
 | Star-hack  | 22/240  |
 
