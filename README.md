@@ -3,7 +3,7 @@
 | Site/CTF  | Points/Rank |
 | ------------- | ------------- |
 | Root-me  | 1300 pts  |
-| Portswigger  | 30%  |
+| Portswigger  | 18%  |
 | Intro CTFREI  |  |
 | ECW  | 156/846  |
 | Star-hack  | 22/240  |
